@@ -104,7 +104,11 @@ section.success {
 
 @media (max-width: 767px) {
   .center-block {
+    width: 100%;
     padding: 0 15px;
+  }
+  .center-block a {
+    display: block;
   }
   section {
     padding: 75px 0;

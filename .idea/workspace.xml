@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e2344d-b8cb-43fa-8eb4-c4ca70da1bda" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/build.js" afterPath="$PROJECT_DIR$/currentversion/build/build.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/check-versions.js" afterPath="$PROJECT_DIR$/currentversion/build/check-versions.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/dev-client.js" afterPath="$PROJECT_DIR$/currentversion/build/dev-client.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/dev-server.js" afterPath="$PROJECT_DIR$/currentversion/build/dev-server.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/utils.js" afterPath="$PROJECT_DIR$/currentversion/build/utils.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/vue-loader.conf.js" afterPath="$PROJECT_DIR$/currentversion/build/vue-loader.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/webpack.base.conf.js" afterPath="$PROJECT_DIR$/currentversion/build/webpack.base.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/webpack.dev.conf.js" afterPath="$PROJECT_DIR$/currentversion/build/webpack.dev.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/build/webpack.prod.conf.js" afterPath="$PROJECT_DIR$/currentversion/build/webpack.prod.conf.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config/dev.env.js" afterPath="$PROJECT_DIR$/currentversion/config/dev.env.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config/index.js" afterPath="$PROJECT_DIR$/currentversion/config/index.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/config/prod.env.js" afterPath="$PROJECT_DIR$/currentversion/config/prod.env.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/static/js/manifest.df0f96f2447c5f8cf9a8.js.map" afterPath="$PROJECT_DIR$/static/js/manifest.df0f96f2447c5f8cf9a8.js.map" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -99,6 +90,14 @@
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/currentversion" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -182,7 +181,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -196,7 +195,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
@@ -212,7 +211,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/freelancer.css" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
@@ -220,7 +219,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jquery-simple-menu/index.html" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
@@ -246,7 +245,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="12" lean-forward="true" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />

@@ -74,6 +74,9 @@
         padding: 6px;
         z-index: 30;
     }
+    .card-title {
+        font-size: 1em;
+    }
     .w-img-site {
         position: relative;
         display: block;

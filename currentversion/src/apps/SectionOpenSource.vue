@@ -11,7 +11,7 @@
                             </div>
                             <card-body>
                                 <h4 class="card-title">Simple Menu</h4>
-                                <a class="btn light-blue darken-2 ripple-parent" @click="setSimpleMenuModal( true )">More</a>
+                                <a class="btn light-blue darken-2 ripple-parent" @click="showSimpleMenu()">More</a>
                             </card-body>
                         </card>
                     </div>
@@ -24,7 +24,7 @@
                             </div>
                             <card-body>
                                 <h4 class="card-title">Custom Loading</h4>
-                                <a class="btn light-blue darken-2 ripple-parent" @click="setVueCustomLoadingModal( true )">More</a>
+                                <a class="btn light-blue darken-2 ripple-parent" @click="showVueCustomLoading()">More</a>
                             </card-body>
                         </card>
                     </div>
@@ -38,7 +38,7 @@
                             </div>
                             <card-body>
                                 <h4 class="card-title">Timefy</h4>
-                                <a class="btn light-blue darken-2 ripple-parent" @click="timefyModal = true">More</a>
+                                <a class="btn light-blue darken-2 ripple-parent" @click="showTimefy()">More</a>
                             </card-body>
                         </card>
                     </div>
@@ -46,46 +46,61 @@
             </row>
 
         </container>
-        <modal v-if="simpleMenuModal" @close="simpleMenuModal = false">
-            <h3 slot="header">JQUERY SIMPLE MENU PLUGIN</h3>
-            <div slot="body">
-                <div class="w-modal-img">
-                    <progressive-img
-                            src="https://github.com/ikloster03/jquery-simple-menu/raw/master/images/example.gif"
-                            @onLoad="onLoad"
-                    />
-                </div>
-                <p><a class="modal-link" href="https://ikloster03.github.io/jquery-simple-menu/">Simple Menu Plugin</a> is a utility for quickly building a menu of the site</p>
-                <p>Repository:
-                    <strong><a class="modal-link" href="https://github.com/ikloster03/jquery-simple-menu">jquery-simple-menu</a>
-                    </strong>
-                </p>
+        <modal name="simple-menu" :adaptive="true" :scrollable="true" height="auto">
+            <div class="box">
+                <button type="button" class="close box__close" aria-label="Close" @click="hideSimpleMenu()">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+               <div class="box-part">
+                   <h3 class="box-part__header">JQUERY SIMPLE MENU PLUGIN</h3>
+                   <div class="w-modal-img">
+                       <progressive-img
+                               src="https://github.com/ikloster03/jquery-simple-menu/raw/master/images/example.gif"
+                               @onLoad="onLoad"
+                       />
+                   </div>
+                   <p><a class="modal-link" href="https://ikloster03.github.io/jquery-simple-menu/">Simple Menu Plugin</a> is a utility for quickly building a menu of the site</p>
+                   <p>Repository:
+                       <strong><a class="modal-link" href="https://github.com/ikloster03/jquery-simple-menu">jquery-simple-menu</a>
+                       </strong>
+                   </p>
+               </div>
             </div>
         </modal>
-        <modal v-if="vueCustomLoadingModal" @close="vueCustomLoadingModal = false">
-            <h3 slot="header">VUE CUSTOM LOADING</h3>
-            <div slot="body">
-                <div class="w-modal-img">
-                    <progressive-img
-                            src="https://github.com/ikloster03/vue-custom-loading/raw/master/img/example.gif"
-                            @onLoad="onLoad"
-                    />
+        <modal name="vue-custom-loading" :adaptive="true" :scrollable="true" height="auto">
+            <div class="box">
+                <button type="button" class="close box__close" aria-label="Close" @click="hideVueCustomLoading()">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="box-part">
+                    <h3 class="box-part__header">VUE CUSTOM LOADING</h3>
+                    <div class="w-modal-img">
+                        <progressive-img
+                                src="https://github.com/ikloster03/vue-custom-loading/raw/master/img/example.gif"
+                                @onLoad="onLoad"
+                        />
+                    </div>
+                    <p><a class="modal-link" href="https://ikloster03.github.io/vue-custom-loading/">Vue Custom Loading</a> is a utility for quickly building a custom full overlay loading with spinner for Vue.</p>
+                    <p>Repository:
+                        <strong><a class="modal-link" href="https://github.com/ikloster03/vue-custom-loading">vue-custom-loading</a>
+                        </strong>
+                    </p>
                 </div>
-                <p><a class="modal-link" href="https://ikloster03.github.io/vue-custom-loading/">Vue Custom Loading</a> is a utility for quickly building a custom full overlay loading with spinner for Vue.</p>
-                <p>Repository:
-                    <strong><a class="modal-link" href="https://github.com/ikloster03/vue-custom-loading">vue-custom-loading</a>
-                    </strong>
-                </p>
             </div>
         </modal>
-        <modal v-if="timefyModal" @close="timefyModal = false">
-            <h3 slot="header">Timefy</h3>
-            <div slot="body">
-                <p>Timefy your life with js!</p>
-                <p>Repository:
-                    <strong><a class="modal-link" href="https://github.com/ikloster03/timefy">timefy</a>
-                    </strong>
-                </p>
+        <modal name="timefy" :adaptive="true" :scrollable="true" height="auto">
+            <div class="box">
+                <button type="button" class="close box__close" aria-label="Close" @click="hideTimefy()">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+                <div class="box-part">
+                    <h3 class="box-part__header">Timefy</h3>
+                    <p>Timefy your life with js!</p>
+                    <p>Repository:
+                        <strong><a class="modal-link" href="https://github.com/ikloster03/timefy">timefy</a>
+                        </strong>
+                    </p>
+                </div>
             </div>
         </modal>
         <Loading
@@ -105,7 +120,6 @@
 </template>
 
 <script>
-    import Modal from '@/components/Modal.vue';
     import Container from '@/components/Container.vue';
     import Row from "@/components/Row";
     import Column from "@/components/Col";
@@ -121,7 +135,6 @@
 
     export default {
         components: {
-            Modal,
             Container,
             Row,
             Column,
@@ -134,13 +147,25 @@
             Loading,
         },
         methods: {
-            setSimpleMenuModal( data ) {
-                this.simpleMenuModal = data;
+            showSimpleMenu () {
+                this.$modal.show('simple-menu');
                 this.showProp = true;
             },
-            setVueCustomLoadingModal( data ) {
-                this.vueCustomLoadingModal = data;
+            hideSimpleMenu () {
+                this.$modal.hide('simple-menu');
+            },
+            showVueCustomLoading () {
+                this.$modal.show('vue-custom-loading');
                 this.showProp = true;
+            },
+            hideVueCustomLoading () {
+                this.$modal.hide('vue-custom-loading');
+            },
+            showTimefy () {
+                this.$modal.show('timefy');
+            },
+            hideTimefy () {
+                this.$modal.hide('timefy');
             },
             onLoad () {
                 this.showProp = false;
@@ -197,6 +222,21 @@
         left: 50%;
         margin-right: -50%;
         transform: translate(-50%, -50%)
+    }
+    .box {
+        position: relative;
+    }
+    .box__close {
+        cursor: pointer;
+        position: absolute;
+        top: 10px;
+        right: 10px;
+    }
+    .box-part {
+        padding: 15px;
+    }
+    .box-part__header {
+        text-align: center;
     }
     .w-modal-img {
         padding-bottom: 30px;

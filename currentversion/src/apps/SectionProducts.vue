@@ -3,7 +3,7 @@
         <container>
             <p class="section-products__header">Products I worked on</p>
             <row>
-                <column col="12" sm="6" lg="3" v-for="item in allSites">
+                <column col="12" sm="6" lg="3" v-for="item in allSites" :key="item.id">
                     <SiteCard v-if="isBadge( item.badge )" :siteName="item.name" :pathLink="item.link" :pathImg="item.img" :badgeName="item.badge"></SiteCard>
                     <SiteCard v-else :siteName="item.name" :pathLink="item.link" :pathImg="item.img"></SiteCard>
                 </column>
@@ -36,22 +36,26 @@
             return {
                 allSites: [
                     {
+                        id: 1,
                         name: '24Truck',
                         link: 'https://www.24-truck.ru/',
                         img: '/static/img/24-truck.png',
                     },
                     {
+                        id: 2,
                         name: 'Shaft Gear',
                         link: 'https://shaft-gear.ru/',
                         img: '/static/img/shaft-gear.png'
                     },
                     {
+                        id: 3,
                         name: 'Hellosport',
                         link: 'https://hellosport.ru/',
                         img: '/static/img/hellosport.png',
                         badge: 'old version'
                     },
                     {
+                        id: 4,
                         name: 'Tahograff',
                         link: 'https://tahograff.ru/',
                         img: '/static/img/tahograff-logo.png'

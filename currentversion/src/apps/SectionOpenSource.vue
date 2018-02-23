@@ -50,7 +50,7 @@
                                 <img class="img-site" src="/static/img/pink-donut.png" alt="">
                             </div>
                             <card-body>
-                                <h4 class="card-title">Custom Loading</h4>
+                                <h4 class="card-title">Pink Donut</h4>
                                 <a href="https://ikloster03.github.io/pink-donut/" target="_blank" class="btn mdb-color lighten-1 ripple-parent" >go to Pink Donut</a>
                             </card-body>
                         </card>

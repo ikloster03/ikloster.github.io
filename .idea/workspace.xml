@@ -3,6 +3,48 @@
   <component name="ChangeListManager">
     <list default="true" id="24e2344d-b8cb-43fa-8eb4-c4ca70da1bda" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/css/app.a7bdfc60e9693c2d9b2900d29d9b6838.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Bold.39b2c30.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Bold.dc81817.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Bold.e31fcf1.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Bold.ecdd509.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Light.3b813c2.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Light.46e48ce.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Light.69f8a06.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Light.a990f61.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Medium.4d9f3f9.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Medium.574fd0b.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Medium.894a2ed.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Medium.fc78759.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Regular.2751ee4.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Regular.30799ef.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Regular.ba3dcd8.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Regular.df7b648.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Thin.7500519.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Thin.9499847.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Thin.954bbde.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/Roboto-Thin.dfe56a8.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/fontawesome-webfont.674f50d.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/fontawesome-webfont.af7ae50.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/fontawesome-webfont.b06871f.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/fonts/fontawesome-webfont.fee66e7.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/24-truck.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/fontawesome-webfont.912ec66.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/hellosport.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/pink-donut.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/shaft-gear.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/simple-menu.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/tahograff-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/timer.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/img/vue-custom-loading.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/app.9bf8db79cd2309c14452.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/app.9bf8db79cd2309c14452.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/manifest.a32f13af9c8a75bb11a0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/manifest.a32f13af9c8a75bb11a0.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/vendor.f2ddf42fe4c5905bd11d.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/dist/static/js/vendor.f2ddf42fe4c5905bd11d.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/currentversion/src/apps/SectionOpenSource.vue" afterPath="$PROJECT_DIR$/currentversion/src/apps/SectionOpenSource.vue" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,16 +66,6 @@
               <folding>
                 <element signature="n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="329" lean-forward="false" selection-start-line="4" selection-start-column="329" selection-end-line="4" selection-end-column="329" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -78,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SectionOpenSource.vue" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SectionOpenSource.vue" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SectionOpenSource.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
+            <state relative-caret-position="573">
+              <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -100,11 +132,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SiteCard.vue" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SiteCard.vue" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SiteCard.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="138" />
+            <state relative-caret-position="464">
+              <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -185,6 +217,11 @@
               <item name="ikloster03.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="ikloster03.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="ikloster03.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ikloster03.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="currentversion" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -254,6 +291,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-71" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19062833" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -263,7 +301,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21350546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21350546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -305,14 +343,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/currentversion/node_modules/vue-js-modal/src/Modal.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="52" lean-forward="true" selection-start-line="20" selection-start-column="52" selection-end-line="20" selection-end-column="52" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/currentversion/node_modules/vue-js-modal/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -494,22 +524,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currentversion/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#0;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#1;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#2;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#3;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#4;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#style#0;n#path#5;n#symbol#1;n#defs#0;n#svg#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/static/js/app.8fc383f6bc54ea0c923b.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -560,28 +574,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SectionProducts.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding>
-            <element signature="e#629#672#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SectionOpenSource.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="46" column="45" lean-forward="false" selection-start-line="46" selection-start-column="45" selection-end-line="46" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/currentversion/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currentversion/static/img/pink-donut.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SiteCard.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="36" column="29" lean-forward="false" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
           <folding />
         </state>
       </provider>
@@ -594,10 +603,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SiteCard.vue">
+    <entry file="file://$PROJECT_DIR$/currentversion/dist/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="9" column="16" lean-forward="false" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="138" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SectionProducts.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#629#672#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currentversion/src/apps/SectionOpenSource.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="573">
+          <caret line="58" column="18" lean-forward="true" selection-start-line="58" selection-start-column="18" selection-end-line="58" selection-end-column="18" />
           <folding />
         </state>
       </provider>

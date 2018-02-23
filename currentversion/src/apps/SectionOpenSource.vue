@@ -43,6 +43,19 @@
                         </card>
                     </div>
                 </column>
+                <column col="12" sm="6" lg="3">
+                    <div class="w-site-card">
+                        <card>
+                            <div class="w-img-site">
+                                <img class="img-site" src="/static/img/pink-donut.png" alt="">
+                            </div>
+                            <card-body>
+                                <h4 class="card-title">Custom Loading</h4>
+                                <a href="https://ikloster03.github.io/pink-donut/" target="_blank" class="btn mdb-color lighten-1 ripple-parent" >go to Pink Donut</a>
+                            </card-body>
+                        </card>
+                    </div>
+                </column>
             </row>
 
         </container>

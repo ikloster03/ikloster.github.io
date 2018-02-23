@@ -2,9 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24e2344d-b8cb-43fa-8eb4-c4ca70da1bda" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/static/img/fontawesome-webfont.912ec66.svg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/currentversion/dist/index.html" afterPath="$PROJECT_DIR$/currentversion/index.html" />
       <change beforePath="$PROJECT_DIR$/currentversion/index.html" afterPath="$PROJECT_DIR$/currentversion/dist/index.html" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Bold.39b2c30.woff2" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Bold.39b2c30.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Bold.dc81817.woff" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Bold.dc81817.woff" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Bold.ecdd509.eot" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Bold.ecdd509.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Light.3b813c2.woff" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Light.3b813c2.woff" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Light.69f8a06.woff2" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Light.69f8a06.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Light.a990f61.eot" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Light.a990f61.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Medium.4d9f3f9.eot" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Medium.4d9f3f9.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Medium.574fd0b.woff2" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Medium.574fd0b.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Medium.fc78759.woff" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Medium.fc78759.woff" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Regular.2751ee4.woff2" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Regular.2751ee4.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Regular.30799ef.eot" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Regular.30799ef.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Regular.ba3dcd8.woff" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Regular.ba3dcd8.woff" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Thin.7500519.woff" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Thin.7500519.woff" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Thin.954bbde.woff2" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Thin.954bbde.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/Roboto-Thin.dfe56a8.eot" afterPath="$PROJECT_DIR$/static/fonts/Roboto-Thin.dfe56a8.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.674f50d.eot" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.674f50d.eot" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.af7ae50.woff2" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.af7ae50.woff2" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.fee66e7.woff" afterPath="$PROJECT_DIR$/static/fonts/fontawesome-webfont.fee66e7.woff" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.8fc383f6bc54ea0c923b.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.9bf8db79cd2309c14452.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.9bf8db79cd2309c14452.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.4e5f11624a4844780627.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.4e5f11624a4844780627.js.map" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.a32f13af9c8a75bb11a0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/static/js/manifest.a32f13af9c8a75bb11a0.js.map" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -100,21 +126,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="329" lean-forward="false" selection-start-line="4" selection-start-column="329" selection-end-line="4" selection-end-column="329" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/currentversion/dist/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
               <caret line="4" column="40" lean-forward="false" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.d5850ec48b3ca66f3012.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/static/js/app.d5850ec48b3ca66f3012.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -213,6 +239,11 @@
               <item name="currentversion" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="dist" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
+            <path>
+              <item name="ikloster03.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ikloster03.github.io" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="static" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -233,8 +264,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/currentversion/dist" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/currentversion/dist" />
       <recent name="$PROJECT_DIR$/currentversion" />
       <recent name="$PROJECT_DIR$/pink-donut/assets/css" />
       <recent name="$PROJECT_DIR$/pink-donut" />
@@ -291,7 +322,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21350546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21350546" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -333,13 +364,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/currentversion/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jquery-simple-menu/index.html" />
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -613,6 +637,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="329" lean-forward="false" selection-start-line="4" selection-start-column="329" selection-end-line="4" selection-end-column="329" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/js/app.d5850ec48b3ca66f3012.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
